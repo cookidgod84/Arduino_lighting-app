@@ -9,4 +9,14 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string-array name="lighting_options">
+        <item>Switch on/off</item>
+        <item>Mode toggle</item>
+        <item>RGB</item>
+        <item>RGBA</item>
+        <item>Amplitude</item>
+        <item>Pattern</item>
+        <item>Delete</item>
+    </string-array>
 </resources>
